@@ -11,6 +11,8 @@
 ![BABEL](https://img.shields.io/badge/Babel-20232A?style=for-the-badge&logo=babel&logoColor=F4D755)
 ![GRAPHQL](https://img.shields.io/badge/GraphQl-20232A?style=for-the-badge&logo=graphql&logoColor=E10098)
 ![APOLLO](https://img.shields.io/badge/Apollo%20GraphQL-20232A?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=593D88)
+![NODEJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html&logoColor=red)
