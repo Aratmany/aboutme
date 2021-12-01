@@ -7,8 +7,8 @@
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![WEBPACK](https://img.shields.io/badge/Webpack-101619?style=for-the-badge&logo=Webpack&logoColor=white)
-![BABEL](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+![WEBPACK](https://img.shields.io/badge/Webpack-20232A?style=for-the-badge&logo=Webpack&logoColor=white)
+![BABEL](https://img.shields.io/badge/Babel-323330?style=for-the-badge&logo=babel&logoColor=white)
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html&logoColor=red)
