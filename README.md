@@ -9,8 +9,8 @@
 ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![WEBPACK](https://img.shields.io/badge/Webpack-101619?style=for-the-badge&logo=Webpack&logoColor=B4E4FD)
 ![BABEL](https://img.shields.io/badge/Babel-323330?style=for-the-badge&logo=babel&logoColor=F4D755)
-![GRAPHQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![APOLLO](https://img.shields.io/badge/Apollo%20GraphQL-20232A?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=311C87)
+![GRAPHQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=E10098)
+![APOLLO](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html&logoColor=red)
