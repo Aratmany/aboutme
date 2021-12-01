@@ -8,7 +8,7 @@
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![WEBPACK](https://img.shields.io/badge/Webpack-101619?style=for-the-badge&logo=Webpack&logoColor=B4E4FD)
-![BABEL](https://img.shields.io/badge/Babel-F6E786?style=for-the-badge&logo=babel&logoColor=white)
+![BABEL](https://img.shields.io/badge/Babel-323330?style=for-the-badge&logo=babel&logoColor=white)
 ![GRAPHQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![APOLLO](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
 
