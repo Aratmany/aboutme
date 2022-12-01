@@ -1,13 +1,10 @@
-# Привет, меня зовут - Арат
-### Занимаюсь коммерческой разработкой более 3 лет. Специализируюсь на frontend-части (React)
-### Нравится делать красивые, удобные интерфейсы
-### Также могу писать backend на Node.js и на PHP
-
 ### Технологический стек:
 ![JS](https://img.shields.io/badge/JavaScript-171B27?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-171B27?style=for-the-badge&logo=TypeScript&logoColor=219AD6)
 ![REACT](https://img.shields.io/badge/React-171B27?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REDUX](https://img.shields.io/badge/Redux_|_RTK_|_redux_--_Thunk-171B27?style=for-the-badge&logo=redux&logoColor=fff)
+![REDUX](https://img.shields.io/badge/Redux_|_Toolkit_|_redux_--_Thunk-171B27?style=for-the-badge&logo=redux&logoColor=fff)
+![WEB3](https://img.shields.io/badge/web3-171B27?style=for-the-badge&logo=web3&logoColor=fff)
+![WEBSOCKETS](https://img.shields.io/badge/websockets-171B27?style=for-the-badge&logo=websockets&logoColor=fff)
 ![SCSS](https://img.shields.io/badge/SCSS-171B27?style=for-the-badge&logo=sass&logoColor=DC6595)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_css-171B27?style=for-the-badge&logo=tailwindcss&logoColor=45BDF5)
 ![JEST](https://img.shields.io/badge/Jest-171B27?style=for-the-badge&logo=jest&logoColor=B26E5B)
