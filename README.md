@@ -1,7 +1,8 @@
-### Технологический стек:
+### Stack used:
 ![JS](https://img.shields.io/badge/JavaScript-171B27?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-171B27?style=for-the-badge&logo=TypeScript&logoColor=219AD6)
 ![REACT](https://img.shields.io/badge/React-171B27?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SVELTE](https://img.shields.io/badge/Svelte-171B27?style=for-the-badge&logo=svelte&logoColor=fc209)
 ![REDUX](https://img.shields.io/badge/Redux_|_Toolkit_|_redux_--_Thunk-171B27?style=for-the-badge&logo=redux&logoColor=fff)
 ![WEB3](https://img.shields.io/badge/web3-171B27?style=for-the-badge&logo=web3&logoColor=fff)
 ![WEBSOCKETS](https://img.shields.io/badge/websockets-171B27?style=for-the-badge&logo=websockets&logoColor=fff)
