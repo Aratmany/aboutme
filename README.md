@@ -1,7 +1,3 @@
-![](https://komarev.com/ghpvc/?username=aratmany&style=flat-square)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aratmany&theme=github-dark-blue)](https://git.io/streak-stats)
-
 ### Stack used:
 ![JS](https://img.shields.io/badge/JavaScript-171B27?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-171B27?style=for-the-badge&logo=TypeScript&logoColor=219AD6)
@@ -27,4 +23,5 @@
 ![GIT](https://img.shields.io/badge/GIT-171B27?style=for-the-badge&logo=git&logoColor=EC5237)
 ![Prettier](https://img.shields.io/badge/Prettier-171B27?style=for-the-badge&logo=Prettier&logoColor=yellow)
 ![ESLint](https://img.shields.io/badge/ESLint-171B27?style=for-the-badge&logo=ESLint&logoColor=fff)
+![](https://komarev.com/ghpvc/?username=aratmany&style=flat-square)
 ![WebStorm](https://img.shields.io/badge/WebStorm-171B27?style=for-the-badge&logo=WebStorm&logoColor=)
