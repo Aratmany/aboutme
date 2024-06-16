@@ -24,4 +24,4 @@
 ![Prettier](https://img.shields.io/badge/Prettier-171B27?style=for-the-badge&logo=Prettier&logoColor=yellow)
 ![ESLint](https://img.shields.io/badge/ESLint-171B27?style=for-the-badge&logo=ESLint&logoColor=fff)
 ![WebStorm](https://img.shields.io/badge/WebStorm-171B27?style=for-the-badge&logo=WebStorm&logoColor=)
-![](https://komarev.com/ghpvc/?username=aratmany&color=171B27)
+![](https://komarev.com/ghpvc/?username=aratmany&color=222428&abbreviated=true)
